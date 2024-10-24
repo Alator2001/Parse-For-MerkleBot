@@ -1,0 +1,717 @@
+ Acceleration Robotics	https://accelerationrobotics.com 
+ ACEINNA	http://www.aceinna.com/ 
+ Accenture	https://www.accenture.com/in-en 
+ Accerion	https://accerion.tech/ 
+ Accio Robotics	https://www.acciorobotics.com/ 
+ Active8 Robots	http://www.active8robots.com 
+ ADASTEC	https://www.adastec.com/ 
+ Addverb	https://addverb.com/ 
+ Adinkra	https://adinkratech.com/ 
+ ADLATUS Robotics GmbH	http://www.adlatus-robotics.com 
+ ADLINK Technology	https://www.adlinktech.com/en/index 
+ Advanced Micro Devices (AMD	https://amd.com 
+ Advanced Navigation	https://www.advancednavigation.com 
+ Aeolus Robotics	http://aeolusbot.com/ 
+ Aerobotix	http://aerobotix.net 
+ AeroVect	http://aerovect.com/ 
+ AeroVironment	https://avinc.com/ 
+ Aeva	http://www.aeva.com 
+ AEye	https://www.aeye.ai/ 
+ AGCO	https://www.agcocorp.com/ 
+ AgileX Robotics	https://www.agilex.ai/?lang=en-us 
+ AgriData Innovations	http://adinnovations.nl/ 
+ Agrograde	https://agrograde.com/ 
+ AICA	https://aica.tech/ 
+ Aidrivers	https://www.aidrivers.ai/ 
+ Airbound	https://airbound.co/ 
+ Airbus	https://www.airbus.com/en 
+ Airvolute	https://www.airvolute.com/ 
+ Aivot	https://www.aivot.com/ 
+ Akara Robotics	https://www.akara.ai/ 
+ Alias Robotics	https://www.aliasrobotics.com/ 
+ AMP Robotics	http://amprobotics.com 
+ AMS (Advanced Mechatronics Solutions	https://www.ams-fa.com/ 
+ Amsted Rail	http://www.amstedrail.com/ 
+ Analog Devices	https://www.analog.com/en/index.html 
+ Angel Robotics	https://angel-robotics.com/ko/ 
+ Angsa Robotics	https://angsa-robotics.com 
+ Angulair	http://www.angulair.com 
+ Ant Robotics	https://antrobotics.de/ 
+ ANYbotics	https://www.anybotics.com/ 
+ Apex.AI	https://www.apex.ai/ 
+ Apollo	 http://apollo.auto 
+ Applanix Corporation	http://www.applanix.com 
+ Apple	http://www.apple.com 
+ Apptronik	https://apptronik.com/ 
+ Aptiv	https://www.aptiv.com/ 
+ ARAV	https://www.arav.jp/ 
+ Arbe	http://www.arberobotics.com 
+ ARC Specialties	http://www.arcspecialties.com 
+ Arche Robotics	http://archerobotics.com/ 
+ ARI	http://www.arifleet.com/ 
+ Arm	https://www.arm.com/ 
+ ARM Institute	http://www.arminstitute.org 
+ ARTI	https://www.arti-robots.com 
+ Artisense	https://www.artisense.ai 
+ Ascent Robotics	https://www.ascent.ai 
+ Ascento Robotics	https://www.ascento.ch/ 
+ Asea Brown Boveri (ABB	https://global.abb/group/en 
+ Asensus Surgical	https://asensus.com/ 
+ ASIMOV Robotics	http://www.asimovrobotics.com 
+ Asimovo	https://asimovo.com/ 
+ Atlas Robotics	https://www.atlas-robotics.com 
+ AUBO Robotics	https://www.aubo-cobot.com/public/index3 
+ Auro	http://www.auro.ai 
+ Auterion	https://auterion.com/ 
+ Autobots INC	https://autobots-inc.com/ 
+ AutoCore.ai	https://autocore.ai/ 
+ AutomationWare	https://automationware.it 
+ AutonomouStuff	http://www.autonomoustuff.com 
+ Autoware Foundation	https://www.autoware.org/ 
+ Avidbots	https://avidbots.com/ 
+ AVL	https://www.avl.com/ 
+ Avnet	http://www.avnet.com 
+ Avular	http://www.avular.com 
+ AWS RoboMaker	https://aws.amazon.com/robomaker/ 
+ A&K Robotics	http://www.AandKrobotics.com 
+ Badger Technologies	http://www.badger-technologies.com/ 
+ Barnstorm Agtech	http://www.barnstormag.tech/ 
+ Barrett Technology	http://www.barrett.com 
+ Bastian Solutions	http://www.bastiansolutions.com 
+ Beagle Systems	https://www.beaglesystems.com/ 
+ Beagle Technology	https://www.beagle-tech.com/ 
+ Bear Robotics	https://www.bearrobotics.ai 
+ BeeX	http://www.beex.sg 
+ Beta Robots	https://beta-robots.com/ 
+ Beyond Vision	https://beyond-vision.pt/ 
+ Birds Eye Robotics	https://www.birdseyerobotics.com 
+ Bitcraze AB	https://www.bitcraze.io 
+ Black Coffee Robotics	https://blackcoffeerobotics.com 
+ BlackBerry QNX	https://blackberry.qnx.com/en 
+ Blickfeld	https://www.blickfeld.com/ 
+ Blue Atlas Robotics	https://blueatlasrobotics.com/ 
+ Blue Ocean Robotics	https://www.blue-ocean-robotics.com/ 
+ Blue Origin	www.blueorigin.com/ 
+ Blue River	http://www.bluerivertechnology.com 
+ Blue Robotics	https://bluerobotics.com 
+ BlueSpace.ai	http://www.bluespace.ai 
+ Bluewhale Robot	http://www.bwbot.org 
+ BMW Group	http://www.bmwgroup.com 
+ Boeing	http://www.boeing.com/ 
+ Bonsai Robotics	https://www.bonsairobotics.ai/ 
+ Bosch	https://www.bosch.com/ 
+ Bossa Nova	http://www.bossanova.com 
+ Boston Dynamics	bostondynamics.com 
+ BotBuilt	https://www.botbuilt.com/ 
+   BotsAndUs	https://www.botsandus.com/ 
+ Botronics	https://botronics.be/ 
+ Botsync	https://www.botsync.co 
+ Bowery Farming	http://boweryfarming.com 
+ Boxbot	http://www.boxbot.io 
+ Brain Corp	http://braincorp.com/ 
+ BrainGarden	https://www.braingarden.ai 
+ BringAuto	http://bringauto.com/ 
+ Brisa Robótica	https://www.brisa.tech/ 
+ BSH Hausgeräte AG	https://www.bsh-group.com 
+ Built Robotics	http://www.builtrobotics.com 
+ Caja Robotics	http://www.cajarobotics.com/ 
+ Candela	https://candela.com/ 
+ Canonical	https://canonical.com/ 
+ Canvas	https://www.canvas.build/ 
+ Capgemini Engineering	https://capgemini-engineering.com 
+ Capra Robotics	https://capra.ooo/ 
+ Carbon Robotics	https://carbonrobotics.com/ 
+ Carnegie Robotics	http://carnegierobotics.com 
+ Cartken	https://www.cartken.com/ 
+ Caterpillar	https://www.caterpillar.com/en.html 
+ Cellula Robotics	https://www.cellula.com/ 
+ Cepton	http://cepton.com/ 
+ Chef Robotics	http://chefrobotics.ai 
+ CheungWon SFA	http://cwsfa.co.kr/ 
+ Clobot	https://www.clobot.co.kr/ 
+ CM Labs Simulations	http://www.cm-labs.com 
+ Coalescent Mobile Robotics	https://cm-robotics.com/ 
+ Cobalt Robotics	https://www.cobaltrobotics.com/ 
+ COEX	https://coex.tech/ 
+ Cognata	http://www.cognata.com 
+ Cognicept Systems	http://www.cognicept.systems 
+ Cogniteam	https://www.cogniteam.com/ 
+ Cognizant	https://www.cognizant.com 
+ Cohesive Robotics	https://cohesiverobotics.com/ 
+ Collimator	http://www.collimator.ai 
+ Collins Aerospace	https://www.collinsaerospace.com/ 
+ Comau	http://www.comau.com 
+ Commonplace Robotics	https://cpr-robots.com/ 
+ Concurrent Real-Time	https://concurrent-rt.com/ 
+ Consciente Technologies	https://consciente.io/ 
+ Constructive Realities	http://constructiverealities.io 
+ Continental	https://www.continental.com/en/ 
+ Corvus Robotics	https://www.corvus-robotics.com/ 
+ CrossWing	http://www.crosswing.com 
+ Crover	https://www.crover.tech 
+ CTRL Robotics	https://www.ctrlrobotics.com/ 
+ cubesys GmbH	https://www.cubesys.io/ 
+ Cyberbotics	https://cyberbotics.com 
+ CYBERDYNE	http://www.cyberdyne.jp/ 
+ Cyberworks Robotics	https://www.cyberworksrobotics.com/ 
+ Cyngn	https://www.cyngn.com/ 
+ Dairy Robotics	http://dairyrobotics.ie/ 
+ Danlaw	http://www.danlawinc.com/ 
+ Dataspeed	https://www.dataspeedinc.com/ 
+ DeepEdge	https://deepedge.ai 
+ DeepRoute.ai	http://www.deeproute.ai/ 
+ DEKA	http://www.dekaresearch.com/ 
+ Delivers.AI	https://delivers.ai/ 
+ Delta Electronics	https://www.deltaww.com/en-US/index 
+ Dematic	http://www.dematic.com 
+ Demine Robotics	https://deminerobotics.com/ 
+ DENSO	https://www.denso.com/us-ca/en/ 
+ Detect Technologies	http://www.detecttechnologies.com 
+ Devanthro	http://www.devanthro.com/ 
+ Dexai Robotic	https://www.dexai.com 
+ Dexory	http://dexory.com 
+ DF Automation & Robotics	https://www.dfautomation.com/ 
+ Diamond Age	http://www.didiglobal.com 
+ Diligent Robotics	http://diligentrobots.com/ 
+ DIMAAG-AI	https://dimaag-ai.com/ 
+ DJI	enterprise.dji.com/ 
+ Doosan	https://www.doosan.com/en 
+ Dorabot	https://www.dorabot.com/ 
+ Draper	http://www.draper.com 
+ DreamVu	http://www.dreamvu.com 
+ DroneDeploy	https://www.dronedeploy.com/ 
+ dSPACE	http://www.dspace.com/ 
+ Ducktrain	https://ducktrain.io/ 
+ Dyno Robotics	http://www.dynorobotics.se 
+ E-COBOT	https://www.e-cobot.com 
+ Easy Robotics	https://easyrobotics.biz/ 
+ EasyMile	http://www.easymile.com 
+ Easymov Robotics	http://www.easymov.fr 
+ eBots	http://www.ebots.com 
+ EikonTech	http://www.eikontech.it 
+ Ekobot	https://www.ekobot.se/ 
+ Ekumen	https://www.ekumenlabs.com/ 
+ Elephant Robotics	https://www.elephantrobotics.com/en/ 
+ Elroy Air	http://elroyair.com 
+ Embark Trucks	http://embarktrucks.com/ 
+ embotech	http://www.embotech.com/ 
+ Emesent	http://www.emesent.com/ 
+ Emlid	https://emlid.com/ 
+ Enabled Robotics	https://www.enabled-robotics.com/ 
+ Energid	https://www.energid.com 
+ Enova Robotics	https://www.enovarobotics.eu/ 
+ Enstein™ Robots & Automations Pvt Ltd	http://www.enstein.in/ 
+ ENWAY	http://www.enway.ai 
+ eProsima	https://www.eprosima.com/ 
+ Ericsson	https://www.ericsson.com/en 
+ Erthos	https://www.erthos.com/ 
+ eSOL	http://www.esol.com 
+ Eternal Robotics	https://eternalrobotics.com/ 
+ Eurogroep	http://www.eurogroep.com 
+ EVAR	https://www.evar.co.kr/ 
+ Evitado Technologies	https://evitado.io/ 
+  Evocargo	http://www.evocargo.com/ 
+ Exobotic Technologies	http://www.exobotic.com/ 
+ Expleo Group	https://expleo.com/global/en/ 
+ Eyeware	https://eyeware.tech 
+ eYs3D Microelectronics, Co.	https://www.eys3d.com/ 
+ e-con Systems	https://www.e-consystems.com 
+ E-TERRY	https://e-terry.de/ 
+ ez-Wheel	https://ez-wheel.com 
+ F&P Robotics	http://www.fp-robotics.com 
+ Fairmat	https://www.fairmat.tech/ 
+ FarmWise	http://farmwiselabs.com 
+ FastLogic	http://www.fastlogic.pl 
+ FastSense	http://www.fastsense.tech 
+ Fieldwork Robotics	https://fieldworkrobotics.com/ 
+ Filics	http://www.filics.eu 
+ FireFly Automatix	https://fireflyautomatix.com 
+ Fixposition	https://www.fixposition.com/ 
+ Fixstars Corporation	https://www.fixstars.com/en 
+ Fizyr	http://www.fizyr.com 
+ Flanders Make	http://www.flandersmake.be 
+ Flexiv	https://www.flexiv.com 
+ FloMobility	https://flomobility.com 
+ Flux Auto	https://fluxauto.xyz/ 
+ FlytBase	http://flytbase.com 
+ Formant	https://formant.io// 
+ Forssea Robotics	http://www.forssea-robotics.fr 
+ Fortem Technologies	http://www.fortemtech.com 
+ Foxglove	https://foxglove.dev/studio 
+ Franka Emika	http://www.franka.de 
+ Fyusion	http://fyusion.com/ 
+ Gaia Platform	https://www.gaiaplatform.io/ 
+ Gaitech Robotics	https://www.gaitech.com/ 
+ Gatik	http://www.gatik.ai 
+ GE	http://www.ge.com 
+ Gecko Robotics	https://www.geckorobotics.com/ 
+ Geek+	https://www.geekplus.com/ 
+ Genrobotics	https://www.genrobotics.org 
+ Gestalt Robotics	http://www.gestalt-robotics.com 
+ Gideon	https://www.gideon.ai/ 
+ GIM Robotics	http://gimrobotics.fi/ 
+ GITAI	http://gitai.tech/ 
+ Glarus Technology	http://glarustech.com/ 
+ Glidewell Laboratories	https://glidewelldental.com/ 
+ Globotix	https://globotix.sg/ 
+ Gofore	http://www.gofore.com 
+ Gravis Robotics	https://gravisrobotics.com/ 
+ GrayMatter Robotics	https://www.graymatter-robotics.com/ 
+ Greenroom Robotics	https://www.greenroomrobotics.com/ 
+ Greenzie	https://www.greenzie.com/ 
+ GreyOrange	https://www.greyorange.com/ 
+ Griffin	http://griffin.ethz.ch 
+ GROOVE X	http://www.groove-x.com/ 
+ GurumNetworks	https://gurum.cc/sol_robotics_eng 
+ Halodi Robotics	https://www.halodi.com/ 
+ Han's Robot	https://www.hansrobot.net/index 
+ Harting	http://www.harting.com 
+ Hatchbed	https://hatchbed.com/ 
+ HAVELSAN	http://www.havelsan.com.tr 
+ HEBI Robotics	http://www.hebirobotics.com 
+ Helgen Technologies	https://www.helgen.tech 
+ Heliogen	https://heliogen.com/ 
+ HelloWorld Robotics	https://www.helloworldrobotics.xyz/ 
+ Hello Robot	https://hello-robot.com/ 
+ HERACLES Robotics	https://www.heracles-robotics.com/en 
+ HERE Technologies	http://here.com 
+ Hesai Technology	http://www.hesaitech.com/en 
+ Hexagon's Autonomy & Positioning division	https://hexagon.com 
+ Hippo Harvest	https://www.hippoharvest.com/ 
+ Hiwonder	https://www.hiwonder.hk/ 
+ Hokuyo Automatic	http://www.hokuyo-aut.jp 
+ Honda Research Institute	https://usa.honda-ri.com/ 
+ Honeybee Robotics	https://www.honeybeerobotics.com/ 
+ Honeywell	https://www.honeywell.com/ 
+ HOPE Technik	https://www.hopetechnik.com/ 
+ Hstar Technologies	http://hstar.ishopworld.com/ 
+ Humatics	http://www.humatics.com 
+ Husarion	https://husarion.com/#custom-robot 
+ Husarnet	https://husarnet.com/robotics.html 
+ Hydromea	https://hydromea.com/ 
+ Hyperspec AI	https://hyperspec.ai/ 
+ Hyundai	https://www.hyundai.com/eu.html 
+ IAV	https://www.iav.com/en/ 
+ IBRobotics (Intelligent Behavior Robots	http://www.ibrobotics.com 
+ iFollow	https://www.ifollow.fr/ 
+ Ignitarium	http://www.ignitarium.com 
+ IKNOWHOW SA	http://www.Iknowhow.com 
+ Imandra	https://www.imandra.ai/ 
+ inaho	https://en.inaho.co/ 
+ incubed IT	http://www.incubedIT.com 
+ Indoor Robotics	https://www.indoor-robotics.com/ 
+ InDro Robotics	https://indrorobotics.ca/ 
+ Inertial Labs	http://www.inertiallabs.com 
+ Inertial Sense	https://inertialsense.com 
+ Infineon	https://www.infineon.com/cms/en/ 
+ Innok Robotics	https://www.innok-robotics.de/en/ 
+ Innoviz Technologies	http://www.innoviz.tech 
+ InOrbit	https://www.inorbit.ai/ 
+ İnovasyon Mühendislik	https://www.inovasyonmuhendislik.com/en 
+ Intel	https://www.intel.com/content/www/us/en/homepage.html 
+ Intermodalics	http://www.intermodalics.eu 
+ Intrinsic	https://intrinsic.ai/ 
+ IR4 PTY LTD	http://www.ir4.com.au 
+ iRobot	https://www.irobot.com/ 
+ Iron Ox	https://ironox.com/ 
+ ISID	https://www.isid.co.jp/ 
+ Islington Robotica	https://www.islingtonrobotica.com/ 
+ IVEX	http://www.ivex.ai 
+  iXblue	http://www.ixblue.com 
+ i3D robotics	http://www.i3drobotics.com/ 
+ i-KINGTEC	https://ikingtec.com/ 
+ Jetbrain Robotics	https://jetbrain.ai 
+ John Deere	https://www.deere.com/en/index.html 
+ Johnson & Johnson	https://www.jnj.com/ 
+ Jungheinrich PROFISHOP AG & Co. KG	http://www.jh-profishop.de/ 
+ Kamdhenu Robotics	https://kamdhenurobotics.com/ 
+ Kapernikov	http://www.kapernikov.com 
+ Karelics	https://karelics.fi 
+ KAWADA ROBOTICS CORPORATION	http://www.kawadarobot.co.jp/ 
+ Kawasaki	https://global.kawasaki.com 
+ KEBA Group	https://www.keba.com 
+ KEMARO AG	https://kemaro.ch/ 
+ Keybotic	https://keybotic.com/ 
+ Kindred AI	https://www.kindred.ai/ 
+ Kingdom Technologies	https://www.kingdom.garden/ 
+ Kinova Robotics	https://assistive.kinovarobotics.com/ 
+ KiQ Robotics	https://kiq-robotics.co.jp/ 
+ Kittyhawk	http://kittyhawk.aero 
+ Kiwibot	https://www.kiwibot.com/ 
+ Klas	http://www.klasgroup.com/ 
+ Klepsydra Technologies	http://www.klepsydra.org 
+ KPIT	https://www.kpit.com/ 
+ KRONE Agriculture	https://www.krone-agriculture.com/ 
+ Kudan	https://www.kudan.io/ 
+ KUKA	http://www.kuka.com 
+ Kyocera	https://global.kyocera.com/robotics/ 
+ Labrador Systems	https://labradorsystems.com 
+ Lanner	https://www.lannerinc.com 
+ LeddarTech	http://www.leddartech.com 
+ LEJU ROBOTICS	http://www.lejurobot.com 
+ Lely	https://www.lely.com/ 
+ LEMKEN	https://lemken.com/ 
+ Lemvos	http://www.lemvos.com 
+ Leo Drive	http://www.leodrive.ai 
+ Leo Rover	http://www.leorover.tech 
+ LexxPluss	https://lexxpluss.com/ 
+ LG (SVL Simulator	https://www.svlsimulator.com/ 
+ LionsBot	http://www.lionsbot.com 
+ Livox LiDAR	https://www.livoxtech.com/ 
+ Locus Robotics	https://locusrobotics.com/industry_solutions/industrial/ 
+ Logivations	http://www.logivations.com 
+ LoopX	https://www.loopx.ai/ 
+ LUCID Vision Labs	https://thinklucid.com 
+ Lulav Space	https://lulav.space/ 
+ Luminar Technologies	https://www.luminartech.com 
+ LuxAI	http://luxai.com 
+ Luxolis	https://luxolis.ai/ 
+ Luxonis	https://www.luxonis.com/ 
+ Machani Robotics	https://www.machanirobotics.com/ 
+ Magazino GmbH	https://www.magazino.eu/?lang=en 
+ Magna International	https://www.magna.com/ 
+ Makai Ocean Engineering	https://www.makai.com/ 
+ MakarenaLabs SRL	https://www.makarenalabs.com/ 
+ Mamezou Co	https://www.mamezou.com/ 
+ MangDang	https://mangdang.store/ 
+ MAN TRUCK & BUS INDIA	https://www.mantruckandbusindia.com/ 
+ Marel	http://www.marel.com 
+ Maria Medical Technology	http://www.mmt.ae 
+ marinom GmbH	https://www.marinom.de/ 
+ Marvelmind Robotics	https://marvelmind.com/ 
+ MathWorks	https://www.mathworks.com/ 
+ Matician	http://www.matician.com 
+ MeBotX	https://www.mebotx.com/ 
+ Mech-Mind Robotics	https://www.mech-mind.com/ 
+ Meta	https://www.metacareers.com/ 
+ Microchip	https://www.microchip.com 
+ Microsoft	https://www.microsoft.com/ 
+ MicroStrain	https://www.microstrain.com/ 
+ Milvus Robotics	https://milvusrobotics.com 
+ MindHome	http://www.mindhome.co 
+ Miso Robotics	https://misorobotics.com 
+ Mitra Informatika	https://mit.id 
+ Mitsubishi Electric	http://www.mitsubishielectric.com/ 
+ Mobile Industrial Robots	https://www.mobile-industrial-robots.com/ 
+ Mojin Robotics GmbH	http://www.mojin-robotics.de 
+ Momentum Robotics	https://www.momentumrobotics.in/home 
+ MORAI	https://www.morai.ai/ 
+ Motius	https://motius.de/ 
+ Motiv Space Systems	http://www.motivss.com 
+ MoviĜo Robotics	http://www.movigorobotics.com 
+ MOV.AI	https://www.mov.ai/ 
+ mu Space Corp	http://www.muspacecorp.com 
+ Naïo Technologies	https://www.naio-technologies.com/en/home/ 
+ NakAI Robotics	https://nakairobotics.com 
+ Nala Robotics	https://nalarobotics.com/ 
+ Nature Robots	https://naturerobots.com/ 
+ Nauticus Robotics	https://nauticusrobotics.com/ 
+ Navtech Radar	https://navtechradar.com/ 
+ NavVis	https://www.navvis.com 
+ NCS Group	https://www.ncs.co/en-sg/ 
+ Nearthlab	http://nearthlab.com 
+Neo Cybernetica	https://www.neocybernetica.com/ 
+ Neobotix GmbH	https://www.neobotix-robots.com/homepage 
+ Nerian Vision	https://nerian.com 
+ NEURA Robotics	https://neura-robotics.com/ 
+ NEUROMEKA	http://www.neuromeka.com 
+ Nexuni Co. Ltd.	www.nexuni.com 
+ Neya Systems	https://www.neyarobotics.com/ 
+ nfiniity GmbH	https://www.nfiniity.com/ 
+ Niryo	https://niryo.com 
+ Nissan	https://www.linkedin.com/company/nissan-motor-corporation 
+ Nobleo Technology	https://nobleo-technology.nl/ 
+  NODE Robotics	https://node-robotics.com/ 
+ Nokia Bell Labs	https://www.bell-labs.com/ 
+ NOKOV Motion Capture	https://www.nokov.com/ 
+ Noosware BV	http://noosware.com/ 
+ Novium	https://www.noviumdesigns.com/ 
+ Noyes Technologies GmbH	https://www.noyes-tech.com/ 
+ NTT Disruption	https://disruption.global.ntt 
+ Numurus	https://numurus.com/ 
+ Nuro	https://www.nuro.ai/ 
+ NVIDIA	https://www.nvidia.com/es-es/autonomous-machines/robotics/ 
+ NXP Semiconductors	http://www.nxp.com 
+ NXROBO	http://www.nxrobo.com/ 
+ NXTGEN Robotics	http://www.nxtgenindustries.com.au 
+ Object Computing	http://objectcomputing.com 
+ 	https://www.ocadogroup.com 
+ Oceaneering	https://www.oceaneering.com/ 
+ Octobotics Tech	https://octobotics.tech/ 
+ Odd.Bot	https://www.odd.bot/ 
+ OffWorld	http://offworld.ai 
+ Ola Electric	https://olaelectric.com/ 
+ Olive Robotics	https://www.olive-robotics.com/ 
+ OMRON Group	https://www.omron.com/ 
+ Open Robotics	https://www.openrobotics.org/ 
+ Opteran	http://www.opteran.com/ 
+ Optonic	https://www.optonic.com/en/ 
+ Orangewood Labs	http://www.orangewood.co 
+ Orbbec	http://www.orbbec3d.com 
+ Orbital Composites	https://orbitalcomposites.com/ 
+ Organifarms	http://www.organifarms.de 
+ Orthoplex Solutions	https://orthoplexsolutions.com 
+ OSARO	https://osaro.com/ 
+ OTSAW	http://otsaw.com/ 
+ OttonomyIO	https://ottonomy.io/ 
+ OTTO Motors	http://www.ottomotors.com/ 
+ Ouster	https://ouster.com/ 
+ Outrider	https://www.outrider.ai 
+ Outsight	https://outsight.ai/ 
+ Oversonic	https://www.oversonicrobotics.com/ 
+ Owl Autonomous Imaging	http://www.owlai.us 
+ PAL Robotics	https://pal-robotics.com/ 
+ Parker Microstrain	https://www.microstrain.com/ 
+ Parrot	https://www.parrot.com/us 
+ Path Robotics	https://www.path-robotics.com/ 
+ Peer Robotics	https://www.peerrobotics.ai 
+ Peppermint Robots	https://getpeppermint.co/ 
+ PerceptIn	https://www.perceptin.io 
+ Percipio Robotics	http://www.percipio-robotics.com 
+ Petpooja	https://www.petpooja.com 
+ Phantom AI	https://phantom.ai/ 
+ Phoenix Contact	https://phoe.co/PhoenixContact 
+ Photoneo	https://www.photoneo.com/ 
+ PI (Physik Instrumente	https://www.physikinstrumente.com/en/ 
+ Piaggio Fast Forward	https://www.piaggiofastforward.com/ 
+ PickNik Robotics	https://picknik.ai/ 
+ Pickit 3D	http://www.pickit3d.com/ 
+ Pilz	https://www.pilz.com/en-US 
+ Pixelink	https://www.pixelink.com 
+ PIX Moving	https://www.pixmoving.com/ 
+ Pixel Robotics	https://www.pixel-robotics.eu/ 
+ Plus	https://www.plus.ai/ 
+ Plus One Robotics	https://plusonerobotics.com/ 
+ Point One Navigation	https://pointonenav.com 
+ Polymath Robotics	https://polymathrobotics.com 
+ PPM Robotics AS	https://www.ppm.no/ 
+ Process Champ	https://processchamp.com/ 
+ PROPHESEE	https://www.prophesee.ai 
+ PushCorp	http://pushcorp.com 
+ qbrobotics	http://www.qbrobotics.com 
+ QuadSat	https://quadsat.com/ 
+ Qualcomm	https://www.qualcomm.com/products/application/industrial-commercial/robotics 
+ Quanergy	http://www.quanergy.com 
+ Quantillion Technologies	http://www.quantillion.io/ 
+ Quasi Robotics	https://quasi.ai 
+ RangeAero	http://www.range.aero 
+ Rapyuta Robotics	https://www.rapyuta-robotics.com/ 
+ READY Robotics	http://www.ready-robotics.com/ 
+ RealMan Intelligent Technology (BeijingCo., Ltd.	http://www.realman-robotics.com/ 
+ Realtime Robotics	https://www.rtr.ai 
+ Redwire Space	https://redwirespace.com/ 
+ Reebot	https://reebot.tech/ 
+ Relativity Space	http://relativityspace.com 
+ Relay Robotics	https://www.relayrobotics.com/ 
+ REMAKE.AI	https://remake.ai/ 
+ REMY Robotics	https://remyrobotics.com/ 
+ Renesas Electronics	http://www.renesas.com 
+ Renu Robotics	https://renurobotics.com 
+ RGo Robotics	https://www.rgorobotics.ai 
+ RIF Robotics	https://www.rifrobotics.com 
+ RightHand Robotics	http://www.righthandrobotics.com/ 
+ RIOS Intelligent Machines	http://www.rios.ai 
+ Rivelin Robotics	http://www.rivelinrobotics.com 
+ Robertshaw	http://www.robertshaw.com/ 
+ Roboception GmbH	https://roboception.com/en/ 
+ RoboDeck	https://www.robo-deck.com/ 
+ RoboK	http://robok.ai 
+ Robolaunch	https://www.robolaunch.io/ 
+ Robosharing	http://robosharing.ai/ 
+ RoboSense	https://www.robosense.ai 
+ Robotec.AI	https://robotec.ai/ 
+ RoboTech Vision	https://robotechvision.com/ 
+ Robotic Solutions, Inc.	http://www.roboticsolutionsinc.com 
+ Robotican	https://robotican.net/ 
+ Robotiq	http://robotiq.com/ 
+ ROBOTIS	https://robotis.us/ 
+ Roboto AI	https://www.roboto.ai/ 
+ Rocket Lab	http://www.rocketlabusa.com 
+  Rockwell Automation	http://www.rockwellautomation.com/ 
+ Rope Robotics	http://www.roperobotics.com 
+ ROSEN	https://www.rosen-group.com/global.html 
+ Rover Robotics	https://roverrobotics.com/ 
+ RT Corporation	https://rt-net.jp/ 
+ RTI (Real-Time Innovations	https://www.rti.com/en/ 
+ Rucha Yantra LLP	https://www.yantrallp.com/ 
+ RUVU	https://ruvu.nl/ 
+ Ryberg	https://www.ryberg.nl/ 
+ SafeAI	https://www.safeai.ai/ 
+ SAGA ROBOTICS	https://sagarobotics.com/ 
+ Saha Robotik	http://saharobotik.com/ 
+ SARCOS	https://www.sarcos.com 
+ Sastra Robotics	http://www.sastrarobotics.com 
+ SBG Systems	https://www.sbg-systems.com/ 
+ Schaeffler	https://www.schaeffler.com/fork/ 
+ Schindler Group	https://group.schindler.com/ 
+ SCHUNK	https://www.schunk.com 
+ Scythe Robotics	https://www.scytherobotics.com/ 
+ SDLE	https://sdle.es/ 
+ SEAOS Inc.	https://www.seaos.co.jp/ 
+ Seasony	https://www.seasony.io/ 
+ SEC Co.	https://www.sec.co.jp/ja/index.html 
+ Sedenius Engineering GmbH	http://www.sedenius.com/ 
+ Seed Robotics	http://www.seedrobotics.com 
+ Seegrid	http://www.seegrid.com/ 
+ Segway Robotics	https://robotics.segway.com/ 
+ SENSYN ROBOTICS	https://www.sensyn-robotics.com 
+ Seoul Robotics	https://seoulrobotics.org 
+ Septentrio	http://www.septentrio.com 
+ SEQSENSE	https://www.seqsense.com/ 
+ SESTO Robotics	https://www.sestorobotics.com 
+ Sevensense Robotics	https://www.sevensense.ai/ 
+ Shadow Robot	https://www.shadowrobot.com/ 
+ Shenzhen EAI Technology	http://www.ydlidar.com 
+ Shield AI	https://shield.ai/ 
+ Shinkei	https://www.shinkei.systems/ 
+ Shunya Ekai Technologies	https://shunyaekai.tech 
+ SICK Sensor Intelligence	http://www.sick.com 
+ Siemens	https://www.siemens.com/global/en.html 
+ Simbe Robotics	https://www.simberobotics.com/ 
+ Simelabs	http://www.simelabs.com/ 
+ Skarv Technologies	http://www.skarvtech.com 
+ Skilled Wound Care	https://www.skilledwoundcare.com/ 
+ Skycatch	http://www.skycatch.com 
+ Skyline Robotics	https://www.skylinerobotics.com/ 
+ SLAMcore	http://www.slamcore.com 
+ Slip Robotics	https://sliprobotics.com/ 
+ sliQue Robotics	https://slique.us/ 
+ Small Robot Company	http://www.smallrobotcompany.com/ 
+ smartmicro	https://www.smartmicro.com/ 
+ Smart Machine	http://www.oxin.nz 
+ Smart Robotics	https://smart-robotics.io 
+ Smile Robotics, Inc.	smilerobotics.com 
+ SNCF	http://www.sncf.com 
+ SoftBank Robotics	https://www.softbankrobotics.com/emea/en 
+ solectrix GmbH	http://www.solectrix.de 
+ Solid State of Mind	https://solidstateofmind.com/ 
+ Soltrex	https://www.soltrex.io/ 
+ SOMATIC	http://getsomatic.com 
+ Sony	https://www.sony.com/en/ 
+ Sorting Robotics	https://www.sortingrobotics.com/ 
+ Southie Autonomy	http://southie.ai 
+ Southwest Research Institute	https://www.swri.org/industries/industrial-robotics-automation 
+ SpaceTime Labs	https://www.spacetimelabs.ai/ 
+ spinbotics	http://spinbotics.com 
+ Spirit Aerosystems	https://www.spiritaero.com/ 
+ Square Robot Inc.	http://www.squarerobots.com 
+ ST Robotics	http://strobotics.com 
+ Starship Technologies	http://www.starship.xyz 
+ Steatite Limited	http://www.steatite.co.uk 
+ Stellantis	https://www.stellantis.com 
+ Stereolabs	https://www.stereolabs.com/ 
+ STMicroelectronics	https://www.st.com/ 
+ Stogl Robotics	https://www.stoglrobotics.de/ 
+ Stratom	http://www.stratom.com 
+ StreetDrone	http://streetdrone.com/ 
+ Sundance Multiprocessor Technology	http://www.sundance.com 
+ Svenzva Robotics	https://www.svenzva.com/ 
+ Swift Navigation	https://www.swiftnav.com 
+ SyncBotic	https://syncbotic.com/ 
+ Synersight	https://www.synersight.es/ 
+ Synkar Autonomous	http://www.synkar.com 
+ Systems Engineering Consultants Co., LTD.	http://www.sec.co.jp/english/index.html 
+ Systemtrio	https://systemtrio.com/ 
+ TAILOS	https://tailos.com/ 
+ Tangram Vision	https://www.tangramvision.com/ 
+ Tata Elxsi	https://www.tataelxsi.com 
+ TDK InvenSense	http://www.invensense.com 
+ TDS Technology	https://www.tdstech.com/ 
+ TechMagic	https://techmagic.co.jp/ 
+ TECHMAN ROBOT	http://tm-robot.com/ 
+ TelemeThing	https://telemething.com/ 
+ Tend.ai	https://tend.ai 
+ TerraClear	https://www.terraclear.com/ 
+ teTra aviation corp	https://www.tetra-aviation.com 
+ Tettix	https://www.tettix.info 
+ Texas Instruments	https://www.ti.com/applications/industrial/robotics.html 
+ Textron	http://www.textron.com 
+ The Construct	https://www.theconstructsim.com/ 
+ The ePlane Company	http://www.eplane.ai 
+ The Hi-Tech Robotic Systemz Ltd	http://www.thrsl.xyz 
+ TIER IV	https://tier4.jp/en/ 
+  TinyMobileRobots	https://tinymobilerobots.com/ 
+ TIS inc.	https://www.tis.com/ 
+ TMC	https://tmc-employeneurship.com 
+ TokyoRobotics	https://robotics.tokyo/ 
+ Tomahawk Robotics	https://tomahawkrobotics.com/ 
+ Toposens	http://www.toposens.com 
+ Torc Robotics	http://torc.ai/ 
+ Tormach	https://www.tormach.com/ 
+ Toyota Research Institute	https://www.tri.global/ 
+ Toyota Woven Planet	https://www.woven-planet.global/en 
+ TRACLabs	http://traclabs.com 
+ Tractonomy Robotics	http://www.tractonomy.com/ 
+ Transforma Robotics	http://www.transformarobotics.com 
+ Trend Micro	www.trendmicro.com 
+ Trimble	http://www.trimble.com 
+ Triton Medical Robotics	https://tritonrobotics.com 
+ Trossen Robotics	http://www.trossenrobotics.com/ 
+ Tryo Labs	https://tryolabs.com 
+ Tsuk Arm Robotics	https://tsukarm.co.jp/ 
+ TUGBOT	http://www.tugbot.com/ 
+ TuSimple	http://www.tusimple.com 
+ T-Systems International GmbH	https://www.t-systems.com 
+ UBC AgroBot	https://ubcagrobot.com/ 
+ Ubica Robotics GmbH	https://www.ubica-robotics.eu 
+ Ubiquity Robotics	https://www.ubiquityrobotics.com/ 
+ Udacity	http://www.udacity.com 
+ Udelv	http://www.udelv.com/ 
+ UFACTORY	http://www.ufactory.cc 
+ Uhnder	http://www.uhnder.com/ 
+ Unbox Robotics	https://unboxrobotics.com/ 
+ Unibap AB	https://unibap.com 
+ United Robotics Group	https://unitedrobotics.group 
+ United Robots	https://www.unitedrobots.co/ 
+ Unitree	https://www.unitree.com/ 
+ Unity	https://unity.com/solutions/automotive-transportation-manufacturing/robotics 
+ Universal Field Robots	http://universalfieldrobots.com.au/ 
+ Universal Robots	https://www.universal-robots.com/ 
+ Unmanned Life	http://unmanned.life 
+ Urban Machine	http://www.urbanmachine.build 
+ UVD Robots	https://uvd.blue-ocean-robotics.com/ 
+ UVify	https://www.uvify.com/ 
+ U POWER	https://upower.com/ 
+ Vaarst	https://vaarst.com/ 
+ Valeo	https://www.valeo.com/ 
+ Vayu Robotics	http://www.vayurobotics.com 
+ Vecna Robotics	http://vecnarobotics.com 
+ VECROS	http://www.vecros.com 
+ Vention	https://vention.io/ 
+ Viam	http://www.viam.com/ 
+ Vicarious	http://vicarious.com 
+ Visteon Corporation	http://www.visteon.com 
+ Vistion	https://vistion.si 
+ Volador FlyTech	http://www.voladorft.com/ 
+ Volvo Group	https://www.volvogroup.com/ 
+ Vortex Robotics	http://www.vortex-co.com 
+ Wandelbots	http://www.wandelbots.com 
+ WeGo-Robotics	https://wego-robotics.com 
+ Weston Robot	https://www.westonrobot.com/ 
+ WHILL	https://whill.inc/jp/ 
+ Wind River	http://www.windriver.com 
+ Woodside	www.woodside.com.au 
+ Wyca Robotics	https://www.wyca-robotics.fr/ 
+ Xaxxon Technologies	http://www.xaxxon.com/ 
+ Xsens	http://www.xsens.com 
+ X - ENDER	https://www.x-ender.com/ 
+ Yaak	http://www.yaak.ai 
+ Yaskawa Motoman	https://www.motoman.com 
+ YoGoKo	http://www.yogoko.com 
+ Yokogawa	https://www.yokogawa.com/sg/ 
+ Yujin Robot	https://yujinrobot.com/ 
+ Yuman	https://yuman-robots.com/ 
+ YZ Robot	http://www.yzrobot.cn/en/ 
+ Zebra Technologies	https://www.zebra.com/es/es.html 
+ Zendar	https://www.zendar.io/ 
+ Zeropoint Robotics	https://www.zeropointrobotics.com/ 
+ ZettaScale Technology	https://www.zettascale.tech 
+ Zhen Robotics	http://www.zhenrobot.com/ 
+ ZF	https://www.zf.com/mobile/en/homepage/homepage.html 
+ Zipline	https://www.flyzipline.com/ 
+ Zivid	https://www.zivid.com 
+ ZMP	https://www.zmp.co.jp/en 
+ Zoox	https://www.zoox.com/ 
+ ZVISION	http://www.zvision.xyz 
+ 3Laws	https://www.3laws.io 
+ 4am Robotics	https://www.4am-robotics.com/en/ 
