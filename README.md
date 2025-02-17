@@ -1,39 +1,49 @@
 # Parse-For-MerkleBot
 
-**Parse-For-MerkleBot** — это проект, предназначенный для автоматизации процесса сбора информации о компаниях в области робототехники и их GitHub репозиториях, связанных с ROS (Robot Operating System). Проект включает в себя набор скриптов для парсинга данных, поиска ссылок и анализа репозиториев.
+## Overview
 
-## Описание проекта
+**Parse-For-MerkleBot** is a project designed to automate the process of collecting information about robotics companies and their GitHub repositories related to ROS (Robot Operating System). The project includes a set of scripts for data parsing, link searching, and repository analysis.
 
-Проект состоит из следующих шагов:
+## Table of Contents
+- [Project Description](#project-description)
+- [Scripts](#scripts)
+  - [searchGoogleAPI.go](#searchgoogleapigo)
+  - [filter.go](#filtergo)
+  - [GetTop.go](#gettopgo)
+- [Data Storage](#data-storage)
 
-1. **Сбор информации о компаниях**: 
-   - Извлечение списка компаний и их веб-сайтов из [README файла](https://github.com/vmayoral/ros-robotics-companies) проекта `ros-robotics-companies`.
-   - Результаты сохраняются в файле `companies.txt`.
+## Project Description
 
-2. **Поиск GitHub ссылок**:
-   - С помощью Google API производится поиск всех GitHub ссылок, связанных с названиями компаний из `companies.txt`.
-   - Результаты записываются в файл `Список Git.txt`.
+### 1. Collecting Company Information
+- Extracting a list of companies and their websites from the [README file](https://github.com/vmayoral/ros-robotics-companies) of the `ros-robotics-companies` project.
+- The results are saved in the `companies.txt` file.
 
-3. **Фильтрация результатов**:
-   - Скрипт `filter.go` обрабатывает файл `Список Git.txt`, выделяя возможные ссылки на GitHub профиль компаний.
+### 2. Searching for GitHub Links
+- Using the Google API to search for all GitHub links related to company names from `companies.txt`.
+- The results are recorded in the `Git List.txt` file.
 
-4. **Анализ репозиториев**:
-   - Скрипт `GetTop.go` выводит в консоль топ репозиториев со словом "ROS" в описании.
+### 3. Filtering Results
+- The `filter.go` script processes the `Git List.txt` file, extracting possible links to the companies' GitHub profiles.
 
-5. **Хранение результатов**:
-   - Все результаты также перенесены в Google Таблицу с тремя листами для удобства просмотра и анализа. 
-   ССЫЛКА: https://docs.google.com/spreadsheets/d/1vKJp_UpHgkx5pog60oYFNFI7powGT5rZJlZW7NhUefA/edit?usp=sharing
+### 4. Analyzing Repositories
+- The `GetTop.go` script outputs the top repositories containing the word "ROS" in their description to the console.
 
-## Скрипты
+## Scripts
 
 ### searchGoogleAPI.go
 
-Этот скрипт парсит файл `companies.txt` и ищет в Google все GitHub ссылки, связанные с названием компании. Результат записывается в файл `Список Git.txt`.
+This script parses the `companies.txt` file and searches Google for all GitHub links related to the company name. The results are saved in the `Git List.txt` file.
 
 ### filter.go
 
-Скрипт парсит файл `Список Git.txt` и выделяет возможные ссылки на GitHub профиль компании.
+This script parses the `Git List.txt` file and extracts possible links to the company's GitHub profile.
 
 ### GetTop.go
 
-Скрипт выводит в консоль топ репозиториев со словом "ROS" в описании.
+This script outputs the top repositories containing the word "ROS" in their description to the console.
+
+## Data Storage
+
+All results are also transferred to a Google Spreadsheet with three sheets for easy viewing and analysis. 
+
+📌 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1vKJp_UpHgkx5pog60oYFNFI7powGT5rZJlZW7NhUefA/edit?usp=sharing)
